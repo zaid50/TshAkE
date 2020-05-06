@@ -4,6 +4,7 @@ install() {
 rm -rf $HOME/.telegram-cli
 sudo chmod +x tg
 chmod +x Tshake
+chmod +x install.sh
 chmod +x ts
 ./ts
 }
