@@ -5063,7 +5063,7 @@ end,nil)
 end,nil)   
 end
 end
-if text and text:match('^تنظيف (%d+)$') and Addictive(msg) then    
+if text and text:match('^تنظيف (%d+)$') and DevTshakee(msg) then    
 local Number = tonumber(text:match('^تنظيف (%d+)$')) 
 if Number > 1000 then 
 send(msg.chat_id_, msg.id_,'📮┇لا تستطيع تنضيف اكثر من *~ 1000* رساله') 
