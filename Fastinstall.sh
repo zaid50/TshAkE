@@ -52,4 +52,4 @@ cd TshAkE
 rm -rf luarocks*
 lua start.lua
 
-
+1647163273:AAGReCc8jEXnFUquCSkzbsu7Zs3SZ_CjYs8
